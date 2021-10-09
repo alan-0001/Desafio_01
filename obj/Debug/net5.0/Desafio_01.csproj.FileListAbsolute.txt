@@ -1,0 +1,16 @@
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\Desafio_01.exe
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\Desafio_01.deps.json
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\Desafio_01.runtimeconfig.json
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\Desafio_01.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\Desafio_01.dll
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\ref\Desafio_01.dll
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\bin\Debug\net5.0\Desafio_01.pdb
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.dll
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\ref\Desafio_01.dll
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.pdb
+C:\Users\Alan\Desktop\C#\Desafio_01_repositorio\Desafio_01\obj\Debug\net5.0\Desafio_01.genruntimeconfig.cache

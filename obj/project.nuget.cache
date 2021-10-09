@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ah9YCANzdTakF4KV7y0N545Hy73cZeJ0o/2mZmIGItSTgB82MO9kj/QGb2ca5WSZ/oKeIvp9um2d1hshKEqcoA==",
+  "dgSpecHash": "QzF2SvimlkcD/xKLMjS7RBpDaSENi8lVB0yEDh5xMRYYUXM6JaL6bncwSO2ejLXW7ynqfI/6nanY+CY3y6djWw==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Ubuntu_Rookie\\Desafio_01\\Desafio_01\\Desafio_01\\Desafio_01.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Garcia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Alan\\Desktop\\C#\\Desafio_01_repositorio\\Desafio_01\\Desafio_01.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
